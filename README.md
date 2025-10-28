@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning C++/C, Docker, Git, Github, OpenSSL, nghttp2, nghttp2-asio, Boost C++
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- ↳ [Youtube] https://www.youtube.com/channel/UCIzyfvMUAaIstdW-XbZO3wQ
-- ↳ [Tiktok] https://www.tiktok.com/@nair_creator
+- ↳ [Youtube] https://www.youtube.com/@ewalve
+- ↳ [Tiktok] https://www.tiktok.com/@ewalvie
 - ↳ [Github] https://github.com/Dimon98165
-- ↳ [Discord] fox_furry / Dimon98165
+- ↳ [Discord] ewalve
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
