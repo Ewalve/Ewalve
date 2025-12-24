@@ -5,7 +5,7 @@
 - 📫 How to reach me:
 - ↳ [Youtube] https://www.youtube.com/@ewalve
 - ↳ [Tiktok] https://www.tiktok.com/@ewalvie
-- ↳ [Github] https://github.com/Dimon98165
+- ↳ [Github] https://github.com/ewalve
 - ↳ [Discord] ewalve
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
