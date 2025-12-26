@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ewalve
 - 👀 I’m interested in programming, talking, improving communication, art, having fun, roleplay, games, physics, software engineering, engineering
 - 🌱 I’m currently learning C++/C, Docker, Git, Github, Networking, Qt
-- 🦊 What languages I know: JavaScript(Node.JS), Lua, C++, Python, Java, C#, Java, HTML, CSS.
+- 🦊 What languages I know: JavaScript(Node.JS), Lua, C++, Python, Java, C#, Java, HTML, CSS, SQL.
 - 🦊 What frameworks I know: React.JS, Express.JS, Roblox Studio(RbxUtils), Boost.Asio.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
